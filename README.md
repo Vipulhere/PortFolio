@@ -1,3 +1,3 @@
 # PortFolio
 
-LIVE SOON : https://vipulhere.github.io/PortFolio/
+LIVE : https://vipulhere.github.io/PortFolio/
